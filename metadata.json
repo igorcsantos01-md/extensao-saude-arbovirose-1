@@ -1,0 +1,6 @@
+{
+  "name": "Campanha Educativa Digital contra Arboviroses — Extensão e Validação EMS",
+  "description": "Portal Institucional da Campanha Educativa Digital contra Arboviroses: Quiz Populacional sobre Prevenção da Dengue, Conscientização sobre a Vacina no SUS e Validador Público do Certificado Nº 06 (EMS-CDP-2024-0614).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
